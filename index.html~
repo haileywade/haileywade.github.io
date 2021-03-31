@@ -21,11 +21,11 @@
       <main>
         <div class="recipe a">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
-          <h2>CHOCOLATE MOUSSE</h2>
+          <h2>Running: It's All Mental</h2>
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
           <p class="mins">20 mins</p>
           <p class="description">
-            This delicious chocolate mousse will delight dinner guests of all ages!</p>
+            This blog, <a href="https://hmwade.medium.com/running-its-all-mental-a12964301a9a"></a> will help you change your mindset and in turn, reap the benefits of running. </p>
         </div>
         <div class="recipe b">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-2.png" />
