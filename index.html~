@@ -25,8 +25,7 @@
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
           <p class="mins">20 mins</p>
           <p class="description">
-            This blog, <a href="https://hmwade.medium.com/running-its-all-mental-a12964301a9a"></a> will help you change your mindset and in turn, reap the benefits of running. </p>
-        </div>
+            This blog, <a href="https://hmwade.medium.com/running-its-all-mental-a12964301a9a"></a> will help you change your mindset and in turn, reap the benefits of running. </p></div>
         <div class="recipe b">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-2.png" />
           <h2>SMOKED LAMB WITH RICE</h2>
