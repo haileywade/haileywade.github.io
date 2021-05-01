@@ -2,7 +2,7 @@
 header, footer {
   background-color: #6b705c;
   text-align: left;
-  min-width: 500px;
+   /* min-width: 500px; */;
 }
 
 header { font-family: 'Merriweather', serif; color: #fff; min-height: 100vh; display: flex; }
